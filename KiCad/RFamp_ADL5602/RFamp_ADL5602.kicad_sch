@@ -8,7 +8,11 @@
 		(title "RF Amplifier ADL5602")
 		(date "2026-11-10")
 		(rev "1.0")
-		(company "Omnitech Pty Ltd")
+		(company "Omniphase Pty Ltd")
+		(comment 1 "www.omniphase.com.au")
+		(comment 2 "sales@omniphase.com.au")
+		(comment 3 "Max Input <=16dBm")
+		(comment 4 "20dB Gain, 50MHz-4GHz")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_Coaxial"
@@ -1586,6 +1590,16 @@
 			)
 			(embedded_fonts no)
 		)
+	)
+	(text "Max 16dBm "
+		(exclude_from_sim no)
+		(at 106.426 121.412 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9c7b8e14-8edf-49fc-8217-cd4596ce538f")
 	)
 	(junction
 		(at 170.18 78.74)
