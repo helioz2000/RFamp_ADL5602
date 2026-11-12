@@ -1,15 +1,16 @@
 # RF Amplifier ADL5602
 RF Amplifier based on Analog Devices ADL5602
-with optional power supply.
+with optional LDO power supply.
 
-Specification
+**Specification**
 - 50MHz-4GHz
 - 20dB Gain
 - 5VDC direct supply
 
+[ADL5602 Data Sheet](DataSheets/adl5602.pdf)
 
-![ADL5602_3D_Model](Doc\ADL5602_3D_Model.png)
-![ADL5602_Circuit](Doc\ADL5602_Circuit.png)
-![ADL5602_PCB](Doc\ADL5602_PCB.png)
+![ADL5602_3D_Model](doc/ADL5602_3D_Model.png)
+![ADL5602_Circuit](doc/ADL5602_Circuit.png)
+![ADL5602_PCB](doc/ADL5602_PCB.png)
 
 
