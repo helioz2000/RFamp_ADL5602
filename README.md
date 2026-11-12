@@ -6,6 +6,7 @@ with optional LDO power supply.
 - 50MHz-4GHz
 - 20dB Gain
 - 5VDC direct supply
+- Alternative 1.6V to 6V power supply
 
 [ADL5602 Data Sheet](DataSheets/adl5602.pdf)
 
